@@ -1,4 +1,4 @@
-# Firewall Defender 🛡️👾
+# Firewall Defender 
 
 An interactive, 2D network security simulator built in Python using Pygame. This project visually translates enterprise-level infrastructure defense concepts into an active tactical triage gameplay loop.
 
